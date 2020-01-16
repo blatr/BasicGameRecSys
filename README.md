@@ -1,2 +1,2 @@
 # BasicGameRecSys
-Pet project: basic reccomender system for Steam platform 
+Pet project: basic recommender system for Steam platform 
